@@ -1,6 +1,6 @@
 # 👋 Introduction
 ![status](https://img.shields.io/badge/status-up-brightgreen)
-![gender](https://img.shields.io/badge/gender-🤵-gray)
+![gender](https://img.shields.io/badge/gender-🤵-lightgray)
 
 Hi, I'm **Bachir**. I'm a cybersecurity student from France.
 I’m interested in ethical hacking, network security, and malware analysis.
