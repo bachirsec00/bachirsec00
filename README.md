@@ -4,10 +4,10 @@
 
 Hi, I'm **Bachir**. I'm a cybersecurity student from France.
 I’m interested in ethical hacking, network security, and malware analysis.
-Feel free to contact me if you want to collaborate or chat about security!
+Feel free to contact me if you want to collaborate or chat about security !
 
 ## 📬 Contact Me 
-📧 [Email](mailto:contactbachiir@gmail.com) | 💬 [Issue](https://github.com/bachirsec00) me about what you want!
+📧 [Email](mailto:contactbachiir@gmail.com) | 💬 [Issue](https://github.com/bachirsec00) me about what you want !
 
 ## 🌐 My Projects
 -  [**Portfolio**](https://): My current "e-Portfolio" to introduce correctly myself.
