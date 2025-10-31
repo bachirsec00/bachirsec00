@@ -1,4 +1,7 @@
 ## 👋 Introduction
+
+<img align='right' src='https://avatars3.githubusercontent.com/u/12574099?s=460&u=c4d5a378ac73dd3e206beec5f38363f8a4b9fabc&v=4' width='200"'>
+
 ![status](https://img.shields.io/badge/status-up-brightgreen)
 ![gender](https://img.shields.io/badge/gender-🤵-lightgray)
 
