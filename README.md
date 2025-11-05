@@ -1,5 +1,6 @@
 ## 👋 Introduction
 
+<img align='right' src='https://avatars.githubusercontent.com/kiruadev0' width='200"'>
 
 ![status](https://img.shields.io/badge/status-up-brightgreen)
 ![gender](https://img.shields.io/badge/gender-🤵-lightgray)
