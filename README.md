@@ -14,7 +14,7 @@ Feel free to contact me if you want to collaborate or chat about security !
 
 ## 🌐 My Projects
 -  [**Portfolio**](https://bachirlaouami.vercel.app): My current "e-Portfolio" to introduce correctly myself.
--  [**PixelsGames**](https://pixelsgames.xyz): My online board games, to play with your friends, familly...
+-  [**PixelsGames**](https://github.com/kiruadev0/pixelsgames): My online board games, to play with your friends, familly...
 
 ##  🛠️ My Work Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiruadev0&show_icons=true&theme=default)
